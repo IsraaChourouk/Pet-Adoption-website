@@ -8,8 +8,7 @@ nav{
     display: flex;
     justify-content: space-between;
     background-color: white;
-    top: 0;
-    left: 0;
+    position: fixed;
     height: 90px;
     width: 100%;
 }
