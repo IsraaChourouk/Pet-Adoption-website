@@ -9,6 +9,8 @@ nav{
     justify-content: space-between;
     background-color: white;
     position: fixed;
+    top: 0;
+    left: 0;
     height: 90px;
     width: 100%;
 }
@@ -65,6 +67,8 @@ nav .navbar ul li a:hover{
 .afternav{
     display: flex;
     justify-content: space-around;
+    margin: 10% 0%;
+
 }
 .afternav img{
     width: 70%;
